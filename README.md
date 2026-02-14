@@ -1,32 +1,19 @@
-<!-- Visitor badge -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AbdelrahmanSalhab.AbdelrahmanSalhab">
+# Hey there 👋
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;I'm+Abdelrahman;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+I'm Abdelrahman, a software engineer based in Jerusalem who enjoys building things and solving problems.
 
-<p align="center">
-  Hi, I'm Abdelrahman! I'm a software developer based in Jerusalem.
-  <br><br>
-  📫 How to reach me: <code>abdrhmn.salhab@gmail.com</code>
-  <br>
-  📦 Public repositories: 5
-</p>
+Currently working on AI-powered systems and exploring the intersection of machine learning and practical applications.
 
-<hr>
+## What I work with
 
-## Connect with me
+**Languages:** Java, Python, C, TypeScript, PHP  
+**Tools:** Git, Docker, Linux, MySQL
 
-- LinkedIn: https://www.linkedin.com/in/abdelrahman-salhab/
-<hr>
+## Get in touch
 
-## Languages & Tools
+📧 abdrhmn.salhab@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/abdelrahman-salhab/)
 
-- Languages: Java · Python · C
-- Web / Backend: TypeScript, PHP
-- Databases: MySQL
-- Tools: Git · Docker · Linux
-- Other: Data Structures & Algorithms · Problem solving  · The Passion 🔥
-<hr>
+---
+
+*Always learning, always building*
