@@ -31,15 +31,6 @@
 - Other: Data Structures & Algorithms · Problem solving  · The Passion 🔥
 <hr>
 
-## Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanSalhab&show_icons=true&theme=react" alt="AbdelrahmanSalhab's GitHub stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanSalhab&layout=compact&theme=react" alt="Top languages" width="48%"/>
-</div>
-
-<hr>
-
 ## Featured repositories
 
 - [Crop-Recommendation-System](https://github.com/AbdelrahmanSalhab/Crop-Recommendation-System) — A simple Java app that uses a Decision Tree (trained on a Kaggle dataset of 2,201 records) to recommend crops. Includes a basic GUI for entering soil and weather features. Reported accuracy: 98.91%.
