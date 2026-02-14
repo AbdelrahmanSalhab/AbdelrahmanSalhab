@@ -30,10 +30,3 @@
 - Tools: Git · Docker · Linux
 - Other: Data Structures & Algorithms · Problem solving  · The Passion 🔥
 <hr>
-
-## Featured repositories
-
-- [Crop-Recommendation-System](https://github.com/AbdelrahmanSalhab/Crop-Recommendation-System) — A simple Java app that uses a Decision Tree (trained on a Kaggle dataset of 2,201 records) to recommend crops. Includes a basic GUI for entering soil and weather features. Reported accuracy: 98.91%.
-- [Travelers-Guide](https://github.com/AbdelrahmanSalhab/Travelers-Guide) — A JavaFX-Based application that relies on Dijkstra's Algorithm to find the optimal path within your chosen criteria.
-
-<hr>
