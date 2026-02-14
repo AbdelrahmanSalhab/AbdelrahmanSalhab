@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  Hi — I'm Abdelrahman! I'm a software developer based in Jerusalem.
+  Hi, I'm Abdelrahman! I'm a software developer based in Jerusalem.
   <br><br>
   📫 How to reach me: <code>abdrhmn.salhab@gmail.com</code>
   <br>
@@ -27,10 +27,10 @@
 These are suggested items — please update to match your actual stack.
 
 - Languages: Java · Python · C
-- Web / Backend: PHP
+- Web / Backend: TypeScript, PHP
 - Databases: MySQL
-- Tools: Git · Docker · VS Code
-- Other: Algorithms · Data Structures · Problem solving
+- Tools: Git · Docker · Linux
+- Other: Data Structures & Algorithms · Problem solving  · The Passion 🔥
 <hr>
 
 ## Stats
@@ -43,7 +43,6 @@ These are suggested items — please update to match your actual stack.
 <hr>
 
 ## Featured repositories
-Please replace these example entries with the real repo links and one-line descriptions (I couldn't retrieve repo names in this context).
 
 - [Crop-Recommendation-System](https://github.com/AbdelrahmanSalhab/Crop-Recommendation-System) — A simple Java app that uses a Decision Tree (trained on a Kaggle dataset of 2,201 records) to recommend crops. Includes a basic GUI for entering soil and weather features. Reported accuracy: 98.91%.
 - [Travelers-Guide](https://github.com/AbdelrahmanSalhab/Travelers-Guide) — A JavaFX-Based application that relies on Dijkstra's Algorithm to find the optimal path within your chosen criteria.
