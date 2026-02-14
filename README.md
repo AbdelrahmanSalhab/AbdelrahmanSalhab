@@ -19,12 +19,10 @@
 
 ## Connect with me
 
-- GitHub: https://github.com/AbdelrahmanSalhab
 - LinkedIn: https://www.linkedin.com/in/abdelrahman-salhab/
 <hr>
 
 ## Languages & Tools
-These are suggested items — please update to match your actual stack.
 
 - Languages: Java · Python · C
 - Web / Backend: TypeScript, PHP
