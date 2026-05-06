@@ -6,8 +6,8 @@ Currently working on AI-powered systems and exploring the intersection of machin
 
 ## What I work with
 
-**Languages:** Java, Python, C, TypeScript, PHP  
-**Tools:** Git, Docker, Linux, MySQL
+**Languages:** Flutter, Java, Python, C, TypeScript, PHP
+**Tools:** Git, Docker, Linux, VS-Code, Claude Code
 
 ## Get in touch
 
